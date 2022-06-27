@@ -16,7 +16,7 @@ Currently, the focus has been creating a model to predict cattle counts.</p>
 <p>This repository contains the original dataset, a cleaned version of the dataset, and intiial models for cattle counts done via ARIMA and LSTM</p>
 
 <h2>Data</h2>
-<p>The dataset is available on <a href="hhttps://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210012501">Statistics Canada</a>.</p>
+<p>The dataset is available on <a href="https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210012501">Statistics Canada</a>.</p>
 <p>A basic cleaned version of the dataset is available on this repository looking at cattle counts for slaughet and mass of cattle per year since 1920.</p>
 <p>As of this moment, the variables looked are the Total Cattle Count (Cattle and Calves) per year for the ARIMA and LSTM models.</p>
 
