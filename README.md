@@ -31,4 +31,4 @@ Currently, the focus has been creating a model to predict cattle counts.</p>
 
 <h2>Initial Preparation</h2>
 <p>Plotting the data to see if there is any trends in the data and whether seasonal patterns are present.</p>
-![Cattle Count per Year](https://raw.githubusercontent.com/NSadique/CIND820/main/Images/Initial%20Plot.png)<br>
+![Cattle Count per Year](images/Initial%Plot.png)<br>
